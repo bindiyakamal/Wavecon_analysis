@@ -19,11 +19,11 @@ The dashboard includes a monthly trend chart to show revenue progression across 
 
 ## 🔧 Tools and Skills Used
 :zap: Power BI: To visualize data and create interactive dashboards.
-SQL: For data extraction and querying from the database.
-Data Analysis: To interpret trends and derive actionable insights from the data.
+:zap: SQL: For data extraction and querying from the database.
+:zap: Data Analysis: To interpret trends and derive actionable insights from the data.
 ## 🗂️ Project Files
-Dashboard_Analysis.pptx: Detailed PowerPoint presentation with analysis findings and recommendations.
-SQL_Queries.sql: SQL scripts used for extracting and processing data.
-Insights_Report.pdf: Summary report with key insights and suggestions.
+:zap: Dashboard_Analysis.pptx: Detailed PowerPoint presentation with analysis findings and recommendations.
+:zap: SQL_Queries.sql: SQL scripts used for extracting and processing data.
+:zap: Insights_Report.pdf: Summary report with key insights and suggestions.
 ### 💡 Conclusion
 This project demonstrates the value of data-driven analysis in making strategic business decisions. The insights derived here can guide Wavecon in optimizing their 5G plans and identifying areas for improvement
