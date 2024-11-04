@@ -18,12 +18,12 @@ Analyze city-wise changes in revenue to find regions with significant growth or 
 The dashboard includes a monthly trend chart to show revenue progression across several months, highlighting shifts before and after the 5G launch.
 
 ## 🔧 Tools and Skills Used
-Power BI: To visualize data and create interactive dashboards.
+:zap: Power BI: To visualize data and create interactive dashboards.
 SQL: For data extraction and querying from the database.
 Data Analysis: To interpret trends and derive actionable insights from the data.
-🗂️ Project Files
+## 🗂️ Project Files
 Dashboard_Analysis.pptx: Detailed PowerPoint presentation with analysis findings and recommendations.
 SQL_Queries.sql: SQL scripts used for extracting and processing data.
 Insights_Report.pdf: Summary report with key insights and suggestions.
-###💡 Conclusion
+### 💡 Conclusion
 This project demonstrates the value of data-driven analysis in making strategic business decisions. The insights derived here can guide Wavecon in optimizing their 5G plans and identifying areas for improvement
