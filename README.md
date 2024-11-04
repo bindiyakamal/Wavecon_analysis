@@ -1,17 +1,17 @@
 # Wavecon 5G Impact Analysis
 This project analyzes the impact of the 5G launch on key metrics for Wavecon, a telecom client. Using a dashboard, we examined revenue changes, KPI performance, and plan-level analysis to provide actionable insights. The goal was to understand how 5G influenced customer behavior and financial outcomes.
 
-### 📊 Key Insights
-## Revenue Impact:
+## 📊 Key Insights
+### Revenue Impact:
 
 Total revenue before and after 5G launch to assess growth and potential decline in specific regions.
-## KPI Analysis:
+### KPI Analysis:
 
 Identify which KPIs underperformed after the 5G launch and evaluate potential reasons.
-## Plan Performance:
+### Plan Performance:
 
 Examine which subscription plans performed well post-5G and which ones struggled. Plans that did not perform well could be candidates for adjustment or discontinuation.
-## City-Level Analysis:
+### City-Level Analysis:
 
 Analyze city-wise changes in revenue to find regions with significant growth or decline, helping to pinpoint where 5G had the most impact.
 ## 📈 Monthly Trend Visualization
